@@ -1,0 +1,63 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name: 
+    detail: Lycée Don Bosco Landser
+    i18n: school_a
+  desc: 
+    detail: Obtained the scientific bac.
+    i18n: school_a_desc
+  date:
+    detail: 2010 - 2013
+    i18n: school_a_from
+  job:
+    detail: 
+    i18n: school_a_job
+  icon: fa-plus-square
+  present: true
+
+- name:
+    detail: University of Strasbourg
+    i18n: school_b
+  desc:
+    detail: Faculty of Mathematics and Economics
+    i18n: school_b_desc
+  date:
+    detail: 2013 - 2016
+    i18n: school_b_from
+  job:
+    detail: 
+    i18n: school_b_job
+  icon: fa-plus-square
+  present: true
+
+- name:
+    detail: Epitech, Paris Graduate School of Digital Innovation (France)
+    i18n: school_c
+  desc:
+    detail: Epitech Graduate Diploma in Information Technology (Master)
+    i18n: school_c_desc
+  date:
+    detail: Sept. 2016 - Sept. 2021
+    i18n: school_c_from
+  job:
+    detail: 
+    i18n: school_c_job
+  icon: fa-plus-square
+  present: true
+
+- name:
+    detail: Kent University, Canterbury (England)
+    i18n: school_d
+  desc:
+    detail: Advanced Computer Science (Computational Intelligence) - MSc
+    i18n: school_d_desc
+  date:
+    detail: Sept. 2019 - Sept. 2020
+    i18n: school_d_from
+  job:
+    detail: 
+    i18n: school_d_job
+  icon: fa-plus-square
+  present: true
+
+

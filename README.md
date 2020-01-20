@@ -55,6 +55,7 @@ The following is mapping between *yml files* to *sections*.
 
 * landing.yml ==> index.html
 * index/language.yml ==> index.html
+* index/schools.yml  ==>  _includes/sections/career.html
 * index/careers.yml  ==>  _includes/sections/career.html
 * index/skills.yml  ==>  _includes/sections/skills.html
 * index/projects.yml  ==>  _includes/sections/projects.html
