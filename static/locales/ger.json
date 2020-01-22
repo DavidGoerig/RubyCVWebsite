@@ -8,43 +8,95 @@
     "skills": "Skills",
     "projects": "Projects",
     "career": "Career",
-    "blog": "Blog",
-    "link": "Link"
+    "blog": "Portfolio",
+    "link": "Links"
   },
   "about_me":{
     "about_me": "About Me",
-    "des": "I am a Full Stack engineer with website development, automation Ops and writing scripts experience. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful. I can make lots of friends when I coding and travel."
+    "des": "Hello, my name is David Goerig. I am from Village-Neuf in France near the border of Switzerland and Germany. I'm studying software engineering at Epitech France, and I am currently doing a double degree at the Uniservity of Kent. I have been programming front-end and back-ends application for more than 5 years now. I am interested in all kinds of software programming, but I am especially interested in machine learning at the moment and try to deepen my knowledge."
   },
   "skills":{
     "my_skills": "My Skills"
   },
   "projects":{
     "my_projects": "My Projects",
-    "jalpc": "This project is my project. I use javescript to get repo's information all my repos have only one request.",
-    "cpython": "This project is other's project. I use another request to get repo's information.",
-    "familycode": "This is another project."
+    "jekyll": "This project is this website.",
+    "mts": "This project is my master thesis subject. Using deep neural networks to produce novel music. More informations in the blog.",
+    "zuul": "Java project using Stream API and JavaFX interface creation. ",
+    "djangocarte": "Creation of interactive map, using return of an AI counting car and people to display the informations on a map.",
+    "raytracer": "Creating a raytracer with the CSFML lib. Include all quadratics, many lights, reflections, etc. Many pictures as exemples. ",
+    "trade": "A small trade algorithm, taker over a year many cash flow (here crypto currencies, raw materials, stock exchange and forex). Principally work with the bollinger band, the aim is the maximization of profits according to the fluctuation of several simultaneous courses and their evolutions.",
+    "bomberman": "Copy of Bomberbam in CPP. It allow you to play with split screen, or versus an IA. It use the Irrlicht libraries, and can be run on linux or window. Complete UML and documentation. ",
+    "metro": "Calcul of the steady state in a markov chain using Tower Sampling.",
+    "tenser": "TenserFlow people counter, Matplot real time display, web support with flask.",
+    "epicture": "Java/Android project created to request Imgur and to create a mobile application.",
+    "teamc": "This project is the Web platform for the team management of the Smart lightening project. Todo list, sprint management,  task assignement, etc.",
+    "asm": "Small ASM / Assembler librarie to show how it work. Compile it with the Makefile. All functions are tested with criterion. "
   },
   "career":{
     "my_career": "My Career",
-    "nextcode": "Nextcode",
-    "nextcode_des": "Now I am in Nextcode and develop website with Python code for genetic analysis.",
-    "nextcode_date": "Apr. 2016",
-    "nextcode_job": "Python Developer",
-    "netease": "Netease Game",
-    "netease_des": "In Netease game, I learned game service system and use Python code for ops.",
-    "netease_date": "Jun. 2015",
-    "netease_job": "Dev Ops",
-    "ucloud": "Ucloud",
-    "ucloud_des": "In ucloud, I started to deal with servers and Linux system and use shell scripts to manage massive server.",
-    "ucloud_date": "Sep. 2013",
-    "ucloud_job": "Dev Ops",
-    "college": "Graduation",
-    "college_des": "At July 2013,I graduated from college and started my IT technology tour.",
-    "college_date": "Jul. 2013",
-    "college_job": "Student"
+    
+    "roche_a": "Roche, Basel",
+    "roche_a_desc": "Administrative work, work in the depot and in the IT department.",
+    "roche_a_from": "3 weeks during summer 2012, 2013 and 2015",
+    "roche_a_job": "Summer job",
+    "roche_a_language": "Word, Excel",
+
+    "roche_b": "Roche, Kaiseraugst",
+    "roche_b_desc": "Administrative and logistical work for 2 months at freight. Using SAP and Office.",
+    "roche_b_from": "Jul. 2014 - Sept. 2014",
+    "roche_b_job": "Internship",
+    "roche_b_language": "Word, Excel, SAP, VBA",
+
+    "delpharm": "Delpharm, Huningue",
+    "delpharm_desc": "Administrative work in the production, use of office and software of stock management and personnel.",
+    "delpharm_from": "Jun. 2016 - Sept. 2016",
+    "delpharm_job": "Summer job",
+    "delpharm_language": "Word, Excel",
+
+    "clemessy": "Clemessy, Mulhouse",
+    "clemessy_desc": "Creation of a synoptic editor allowing the monitoring and control of manufacturing facilities.",
+    "clemessy_from": "Jun. 2017 - Dec. 2017",
+    "clemessy_job": "Software engineering internship",
+    "clemessy_language": "Java EE, JavaScript, HTML, CSS",
+
+    "nhc": "New Health Community, Toulouse",
+    "nhc_desc": "Start up of medical digitization. Creation of a robot use to help people in hospital.",
+    "nhc_from": "Sept. 2018 - Apr. 2019",
+    "nhc_job": "Software engineering internship",
+    "nhc_language": "C++, Python, NodeJS, VueJS, Debian Server",
+
+    "roche_c": "Roche, Rotkreuz",
+    "roche_c_desc": "Machine learning internship in the 'Automatic Lab Solution' department.",
+    "roche_c_from": "Apr. 2019 - Sep. 2019",
+    "roche_c_job": "Software engineering internship",
+    "roche_c_language": "Django, Python, Matlab, Apache, Windows Server"
+  },
+  "school":{
+    "my_school": "Schools",
+
+    "school_a": "Don Bosco Landser Highschool",
+    "school_a_desc": "Obtained the scientific bac.",
+    "school_a_from": "2010 - 2013",
+    "school_a_job": "",
+
+    "school_b": "University of Strasbourg",
+    "school_b_desc": "Faculty of Mathematics and Economics",
+    "school_b_from": "2013 - 2016",
+    "school_b_job": "",
+
+    "school_c": "Epitech, Paris Graduate School of Digital Innovation (France)",
+    "school_c_desc": "Epitech Graduate Diploma in Information Technology (Master)",
+    "school_c_from": "Sept. 2016 - Sept. 2021",
+    "school_c_job": "",
+
+    "school_d": "Kent University, Canterbury (England)",
+    "school_d_desc": "Advanced Computer Science (Computational Intelligence) - MSc",
+    "school_d_from": "Sept. 2019 - Sept. 2020",
+    "school_d_job": ""
   },
   "blog":{
-    "my_blog": "My Blog"
+    "my_blog": "My Portfolio"
   },
   "link":{
     "link": "Link",

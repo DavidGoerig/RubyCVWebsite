@@ -6,7 +6,7 @@
   gh_user: DavidGoerig
   repo: RubyCVWebsite
   img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  desc: This project is this website.
   language: Ruby, Jekyll, Github pages
 
 - name: Master thesis subject - Neural network

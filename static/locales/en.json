@@ -20,9 +20,18 @@
   },
   "projects":{
     "my_projects": "My Projects",
-    "jalpc": "This project is my project. I use javescript to get repo's information all my repos have only one request.",
-    "cpython": "This project is other's project. I use another request to get repo's information.",
-    "familycode": "This is another project."
+    "jekyll": "This project is this website.",
+    "mts": "This project is my master thesis subject. Using deep neural networks to produce novel music. More informations in the blog.",
+    "zuul": "Java project using Stream API and JavaFX interface creation. ",
+    "djangocarte": "Creation of interactive map, using return of an AI counting car and people to display the informations on a map.",
+    "raytracer": "Creating a raytracer with the CSFML lib. Include all quadratics, many lights, reflections, etc. Many pictures as exemples. ",
+    "trade": "A small trade algorithm, taker over a year many cash flow (here crypto currencies, raw materials, stock exchange and forex). Principally work with the bollinger band, the aim is the maximization of profits according to the fluctuation of several simultaneous courses and their evolutions.",
+    "bomberman": "Copy of Bomberbam in CPP. It allow you to play with split screen, or versus an IA. It use the Irrlicht libraries, and can be run on linux or window. Complete UML and documentation. ",
+    "metro": "Calcul of the steady state in a markov chain using Tower Sampling.",
+    "tenser": "TenserFlow people counter, Matplot real time display, web support with flask.",
+    "epicture": "Java/Android project created to request Imgur and to create a mobile application.",
+    "teamc": "This project is the Web platform for the team management of the Smart lightening project. Todo list, sprint management,  task assignement, etc.",
+    "asm": "Small ASM / Assembler librarie to show how it work. Compile it with the Makefile. All functions are tested with criterion. "
   },
   "career":{
     "my_career": "My Career",
