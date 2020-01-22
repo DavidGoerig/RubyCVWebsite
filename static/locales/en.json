@@ -26,22 +26,65 @@
   },
   "career":{
     "my_career": "My Career",
+    
+    "roche_a": "Roche, Basel",
+    "roche_a_desc": "Administrative work, work in the depot and in the IT department.",
+    "roche_a_from": "3 weeks during summer 2012, 2013 and 2015",
+    "roche_a_job": "Summer job",
+    "roche_a_language": "Word, Excel",
 
-    "nextcode": "Nextcode",
-    "nextcode_des": "Now I am in Nextcode and develop website with Python code for genetic analysis.",
-    "nextcode_from": "Apr. 2016",
-    "nextcode_to": "Apsr. 2017",
-    "nextcode_job": "Python Developer",
+    "roche_b": "Roche, Kaiseraugst",
+    "roche_b_desc": "Administrative and logistical work for 2 months at freight. Using SAP and Office.",
+    "roche_b_from": "Jul. 2014 - Sept. 2014",
+    "roche_b_job": "Internship",
+    "roche_b_language": "Word, Excel, SAP, VBA",
 
+    "delpharm": "Delpharm, Huningue",
+    "delpharm_desc": "Administrative work in the production, use of office and software of stock management and personnel.",
+    "delpharm_from": "Jun. 2016 - Sept. 2016",
+    "delpharm_job": "Summer job",
+    "delpharm_language": "Word, Excel",
+
+    "clemessy": "Clemessy, Mulhouse",
+    "clemessy_desc": "Creation of a synoptic editor allowing the monitoring and control of manufacturing facilities.",
+    "clemessy_from": "Jun. 2017 - Dec. 2017",
+    "clemessy_job": "Software engineering internship",
+    "clemessy_language": "Java EE, JavaScript, HTML, CSS",
+
+    "nhc": "New Health Community, Toulouse",
+    "nhc_desc": "Start up of medical digitization. Creation of a robot use to help people in hospital.",
+    "nhc_from": "Sept. 2018 - Apr. 2019",
+    "nhc_job": "Software engineering internship",
+    "nhc_language": "C++, Python, NodeJS, VueJS, Debian Server",
+
+    "roche_c": "Roche, Rotkreuz",
+    "roche_c_desc": "Machine learning internship in the 'Automatic Lab Solution' department.",
+    "roche_c_from": "Apr. 2019 - Sep. 2019",
+    "roche_c_job": "Software engineering internship",
+    "roche_c_language": "Django, Python, Matlab, Apache, Windows Server"
   },
   "school":{
     "my_school": "Schools",
 
-    "nextcode": "Nextcode",
-    "nextcode_des": "Now I am in Nextcode and develop website with Python code for genetic analysis.",
-    "nextcode_from": "Apr. 2016",
-    "nextcode_to": "OUI",
-    "nextcode_job": "Python Developer",
+    "school_a": "Don Bosco Landser Highschool",
+    "school_a_desc": "Obtained the scientific bac.",
+    "school_a_from": "2010 - 2013",
+    "school_a_job": "",
+
+    "school_b": "University of Strasbourg",
+    "school_b_desc": "Faculty of Mathematics and Economics",
+    "school_b_from": "2013 - 2016",
+    "school_b_job": "",
+
+    "school_c": "Epitech, Paris Graduate School of Digital Innovation (France)",
+    "school_c_desc": "Epitech Graduate Diploma in Information Technology (Master)",
+    "school_c_from": "Sept. 2016 - Sept. 2021",
+    "school_c_job": "",
+
+    "school_d": "Kent University, Canterbury (England)",
+    "school_d_desc": "Advanced Computer Science (Computational Intelligence) - MSc",
+    "school_d_from": "Sept. 2019 - Sept. 2020",
+    "school_d_job": ""
   },
   "blog":{
     "my_blog": "My Portfolio"

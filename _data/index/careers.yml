@@ -12,6 +12,9 @@
   job:
     detail: Summer job
     i18n: roche_a_job
+  language:
+    detail: Word, Excel
+    i18n: roche_a_language 
   icon: fa-plus-square
   present: true
 
@@ -27,6 +30,9 @@
   job:
     detail: Internship
     i18n: roche_b_job
+  language:
+    detail: Word, Excel, SAP, VBA
+    i18n: roche_b_language
   icon: fa-plus-square
   present: true
 
@@ -42,6 +48,9 @@
   job:
     detail: Summer job
     i18n: delpharm_job
+  language:
+    detail: Word, Excel
+    i18n: delpharm_language
   icon: fa-plus-square
   present: true
 
@@ -49,7 +58,7 @@
     detail: Clemessy, Mulhouse
     i18n: clemessy
   desc:
-    detail: I worked at Company A ...
+    detail: Creation of a synoptic editor allowing the monitoring and control of manufacturing facilities.
     i18n: clemessy_desc
   date:
     detail: Jun. 2017 - Dec. 2017
@@ -57,6 +66,9 @@
   job:
     detail: Software engineering internship
     i18n: clemessy_job
+  language:
+    detail: Java EE, JavaScript, HTML, CSS
+    i18n: clemessy_language
   icon: fa-plus-square
   present: true
 
@@ -72,6 +84,9 @@
   job:
     detail: Software engineering internship
     i18n: nhc_job
+  language:
+    detail: C++, Python, NodeJS, VueJS, Debian Server
+    i18n: nhc_language
   icon: fa-plus-square
   present: true
 
@@ -87,6 +102,9 @@
   job:
     detail: Software engineering internship
     i18n: roche_c_job
+  language:
+    detail: Django, Python, Matlab, Apache, Windows Server
+    i18n: roche_c__language
   icon: fa-plus-square
   present: true
 

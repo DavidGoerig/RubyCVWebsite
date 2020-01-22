@@ -1,22 +1,99 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
+- name: Jekyll CV and portfolio
+  i18n: jekyll
+  gh_user: DavidGoerig
+  repo: RubyCVWebsite
   img: /static/assets/img/landing/jekyll.png
   desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  language: Ruby, Jekyll, Github pages
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+- name: Master thesis subject - Neural network
+  i18n: mts
+  gh_user: DavidGoerig
+  repo:  NovelMusic-Neural-Network
+  img: /static/assets/img/landing/cnn.jpg
+  desc: This project is my master thesis subject. Using deep neural networks to produce novel music. More informations in the blog.
+  language: Python, Matlab
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+- name: Word of Zuul - JavaFX
+  i18n: zuul
+  gh_user: DavidGoerig
+  repo:  ZuulFXSol
+  img: /static/assets/img/landing/jfx.png
+  desc: Java project using Stream API and JavaFX interface creation. 
+  language: Java, JavaFX
+
+- name: Interactive map creation
+  i18n: djangocarte
+  gh_user: DavidGoerig
+  repo:  DjangoCarte
+  img: /static/assets/img/landing/django.png
+  desc: Creation of interactive map, using return of an AI counting car and people to display the informations on a map.
+  language: Python, Django
+
+- name: Raytracer (C)
+  i18n: raytracer
+  gh_user: DavidGoerig
+  repo:  raytracer
+  img: /static/assets/img/landing/rt.png
+  desc: Creating a raytracer with the CSFML lib. Include all quadratics, many lights, reflections, etc. Many pictures as exemples. 
+  language: C
+
+- name: Trading algorithm
+  i18n: trade
+  gh_user: DavidGoerig
+  repo:  trade
+  img: /static/assets/img/landing/stock.jpg
+  desc: A small trade algorithm, taker over a year many cash flow (here crypto currencies, raw materials, stock exchange and forex). Principally work with the bollinger band, the aim is the maximization of profits according to the fluctuation of several simultaneous courses and their evolutions.
+  language: Python
+
+- name: BombermanCPP
+  i18n: bomberman
+  gh_user: DavidGoerig
+  repo:  BombermanCPP
+  img: /static/assets/img/landing/cpp.png
+  desc: Copy of Bomberbam in CPP. It allow you to play with split screen, or versus an IA. It use the Irrlicht libraries, and can be run on linux or window. Complete UML and documentation. 
+  language: C++
+
+- name: Metropolys Alhorithm
+  i18n: metro
+  gh_user: DavidGoerig
+  repo:  MarkovStady
+  img: /static/assets/img/landing/markov.png
+  desc: Calcul of the steady state in a markov chain using Tower Sampling.
+  language: Python
+
+- name: TenserFlow people counter
+  i18n: tenser
+  gh_user: DavidGoerig
+  repo:  TenserFlowPeopleCounter
+  img: /static/assets/img/landing/tenser.png
+  desc: TenserFlow people counter, Matplot real time display, web support with flask.
+  language: TenserFlow, Python, Flask
+
+- name: Android project
+  i18n: epicture
+  gh_user: DavidGoerig
+  repo:  Epicture
+  img: /static/assets/img/landing/android.svg
+  desc: Java/Android project created to request Imgur and to create a mobile application.
+  language: Java, Android
+
+- name: Team Calendar
+  i18n: teamc
+  gh_user: DavidGoerig
+  repo:  TeamCalendar
+  img: /static/assets/img/landing/cal.jpeg
+  desc: This project is the Web platform for the team management of the Smart lightening project. Todo list, sprint management,  task assignement, etc.
+  language: Python, Django, Javascript
+
+
+- name: ASM libraries
+  i18n: asm
+  gh_user: DavidGoerig
+  repo:  ASMsmallLibraries
+  img: /static/assets/img/landing/asm.png
+  desc: Small ASM / Assembler librarie to show how it work. Compile it with the Makefile. All functions are tested with criterion. 
+  language: Assembler
