@@ -3,7 +3,6 @@
   first_name:
   desc: 
   website: https://www.epitech.eu
-  email: ceo@google.com
 
 - last_name: University of Kent
   first_name: UKC

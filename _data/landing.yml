@@ -32,7 +32,7 @@
 
 - id: blog
   i18n: nav.blog
-  name: Blog
+  name: Portfolio
   tpl: blog.html
   page: blog/
   css: testimonials navy-section
