@@ -1,111 +1,113 @@
 {
   "website":{
-    "title": "Portfolio / CV de David Goerig"
+    "title": "David Goerig Portfolio"
   },
   "nav":{
     "home": "Home",
-    "about_me": "A propos",
-    "skills": "Compétences",
-    "projects": "Projets",
-    "career": "Carrière",
+    "about_me": "Über mich",
+    "skills": "Kompetenzen",
+    "projects": "Projekt",
+    "career": "Werdegang",
+    "school": "Bildung",
     "blog": "Portfolio",
-    "link": "Liens"
+    "link": "Links"
   },
   "about_me":{
-    "about_me": "A propos",
-    "des": "Bonjour, je m'appelle David Goerig et je viens de Village-Neuf à la frontière franco-allemande. J'étudie les sciences informatiques à Epitech, et j'ai obtenu un Master en double diplôme à l'université du Kent. Le but de ce douple diplome était de m'intéresser aux sciences cognitives, tout en améliorant mes connaissances en ingénieurie informatique."
-    },
+    "about_me": "Über mich",
+    "des": "Hallo, ich heiße David Goerig. Ich komme aus Village-Neuf in Frankreich nahe der Grenze zwischen der Schweiz und Deutschland. Ich studiere Software Engineering bei Epitech France und habe einen Doppelabschluss an der University of Kent gemacht, wo ich mit Auszeichnung den Master Advanced Computer Science (Computational Intelligence) abschloss. Ich programmiere seit mehr als acht Jahren Front-End- und Back-End-Anwendungen. Ich interessiere mich für alle Arten von Softwareprogrammierung, aber ich interessiere mich besonders für tiefe neuronale Netze, in denen ich versuche, mein Wissen zu vertiefen."
+  },
   "skills":{
-    "my_skills": "Mes compétences"
+    "my_skills": "Kompetenzen"
   },
   "projects":{
-    "my_projects": "Mes projets",
-    "jekyll": "Ce projet est le site web sur lequel vous êtes.",
-    "mts": "Ce projet est mon projet de thèse de Master. L'utilisation de deep neural network pour la production de musiques.This project is my master thesis subject.",
-    "zuul": "Projet en JAVA utilisant les fonctionnalités de Java 12 et une interface en JavaFX.",
-    "djangocarte": "Création d'une carte intéractive utilisé pour l'affichage dynamique de présence dans une salle calculée à l'aide d'un model IA.",
-    "raytracer": "Création d'un raytracer grâce à la librairie CSFML. Création de formes quadratique, lumières venue de plusieurs points, réflection, etc.",
-    "trade": "Algorithme de trade utilisant les cours de ressource afin de faire de la prédiction d'investissement (utilisation des bandes de bollinger).",
-    "bomberman": "Copie de Bomberman en C++, pouvant être joué à deux sur le même écran.",
-    "metro": "Metropolis algorithme, calcul de l'état d'équilibre d'une chaîne de Markov.",
-    "tenser": "Compteur de présence en temps réel grâce à un model TenserFlow et de l'analyse d'image.",
-    "epicture": "Java/Android projet utilisé pour faire de simples requête de la plateforme Imgur.",
-    "teamc": "Création d'une plateforme de management d'équipe.",
-    "asm": "Librairie basique en assembleur."
+    "my_projects": "Projekte",
+    "jekyll": "Dieses Projekt ist diese Website.",
+    "mts": "Dieses Projekt ist mein Masterarbeitsfach. Verwendung tiefer neuronaler Netze zur Produktion neuartiger Musik. Weitere Informationen im Blog.",
+    "zuul": "Java-Projekt mit Stream API und JavaFX-Schnittstellenerstellung.",
+    "djangocarte": "Erstellung einer interaktiven Karte unter Verwendung der Rückgabe eines KI-Zählautos und von Personen, um die Informationen auf einer Karte anzuzeigen.",
+    "raytracer": "Erstellen eines Raytracers mit der CSFML-Bibliothek. Schließen Sie alle Quadrate, viele Lichter, Reflexionen usw. ein. Viele Bilder als Beispiele.",
+    "Handel": "Ein kleiner Handelsalgorithmus, der über ein Jahr viele Cashflows (hier Kryptowährungen, Rohstoffe, Börse und Forex) einnimmt. Hauptsächlich mit dem Bollinger-Band zusammenarbeiten, ist das Ziel die Gewinnmaximierung entsprechend der Schwankung von mehrere gleichzeitige Kurse und ihre Entwicklungen. ",
+    "bomberman": "Kopie von Bomberbam in CPP. Sie können mit geteiltem Bildschirm oder gegen eine IA spielen. Es verwendet die Irrlicht-Bibliotheken und kann unter Linux oder Windows ausgeführt werden. Vollständige UML und Dokumentation.",
+    "metro": "Berechnung des stationären Zustands in einer Markov-Kette mittels Tower Sampling.",
+    "Tenser": "TenserFlow-Personenzähler, Matplot-Echtzeitanzeige, Webunterstützung mit Flasche.",
+    "epicture": "Java / Android-Projekt erstellt, um Imgur anzufordern und eine mobile Anwendung zu erstellen.",
+    "teamc": "Dieses Projekt ist die Webplattform für die Teamverwaltung des Smart Lightening-Projekts. Todo-Liste, Sprint-Management, Aufgabenzuweisung usw.",
+    "asm": "Kleine ASM / Assembler-Bibliothek, um zu zeigen, wie es funktioniert. Kompilieren Sie es mit dem Makefile. Alle Funktionen werden mit Kriterien getestet."
   },
   "career":{
-    "my_career": "Expérience professionelle",
+    "my_career": "Meine Karriere",
 
     "roche_a": "Roche, Basel",
-    "roche_a_desc": "Travaux administratifs, travail au dépôt et au service informatique.",
-    "roche_a_from": "3 semaines pendant les étés 2012, 2013 et 2015",
-    "roche_a_job": "Travail d'été",
+    "roche_a_desc": "Verwaltungsarbeit, Arbeit im Depot und in der IT-Abteilung.",
+    "roche_a_from": "3 Wochen im Sommer 2012, 2013 und 2015",
+    "roche_a_job": "Sommerjob",
     "roche_a_language": "Word, Excel",
 
     "roche_b": "Roche, Kaiseraugst",
-    "roche_b_desc": "\nTravail administratif et logistique pendant 2 mois au fret. Utilisation de SAP et d'Office.",
+    "roche_b_desc": "Administrative und logistische Arbeit für 2 Monate im Güterverkehr. Mit SAP und Office.",
     "roche_b_from": "Jul. 2014 - Sept. 2014",
-    "roche_b_job": "Stage",
+    "roche_b_job": "Praktikum",
     "roche_b_language": "Word, Excel, SAP, VBA",
 
     "delpharm": "Delpharm, Huningue",
-    "delpharm_desc": "Travail administratif dans la production, l'utilisation du bureau et des logiciels de gestion des stocks et du personnel.",
+    "delpharm_desc": "Verwaltungsarbeit bei der Produktion, Nutzung von Büro und Software der Lagerverwaltung und des Personals.",
     "delpharm_from": "Jun. 2016 - Sept. 2016",
-    "delpharm_job": "Travail d'été",
+    "delpharm_job": "Sommerjob",
     "delpharm_language": "Word, Excel",
 
     "clemessy": "Clemessy, Mulhouse",
-    "clemessy_desc": "Création d'un éditeur synoptique permettant le suivi et le contrôle des installations de fabrication.",
-    "clemessy_from": "Jun. 2017 - Dec. 2017",
-    "clemessy_job": "Stage de génie logiciel",
+    "clemessy_desc": "Erstellung eines synoptischen Editors zur Überwachung und Steuerung von Fertigungsanlagen.",
+    "clemessy_from": "Jun. 2017 - Dez. 2017",
+    "clemessy_job": "Praktikum im Bereich Software Engineering",
     "clemessy_language": "Java EE, JavaScript, HTML, CSS",
 
     "nhc": "New Health Community, Toulouse",
-    "nhc_desc": "Start-up de digitalisation médicale. Création d'un robot pour aider les personnes hospitalisées.",
+    "nhc_desc": "Start der medizinischen Digitalisierung. Schaffung eines Roboters zur Unterstützung von Menschen im Krankenhaus.",
     "nhc_from": "Sept. 2018 - Apr. 2019",
-    "nhc_job": "Stage de génie logiciel",
-    "nhc_language": "C++, Python, NodeJS, VueJS, Debian Server",
+    "nhc_job": "Praktikum im Bereich Software Engineering",
+    "nhc_language": "C ++, Python, NodeJS, VueJS, Debian Server",
 
     "roche_c": "Roche, Rotkreuz",
-    "roche_c_desc": "Stage en Machine learning dans le département 'Automatic Lab Solution'.",
+    "roche_c_desc": "Praktikum im Bereich maschinelles Lernen in der Abteilung 'Automatic Lab Solution'.",
     "roche_c_from": "Apr. 2019 - Sep. 2019",
-    "roche_c_job": "Stage de génie logiciel",
+    "roche_c_job": "Praktikum im Bereich Software Engineering",
     "roche_c_language": "Django, Python, Matlab, Apache, Windows Server",
 
+
     "roche_d": "Roche, Rotkreuz",
-    "roche_d_desc": "Stagiaire en intégration système pour l'automatisation de l'analyse des données.",
-    "roche_d_from": "Aug. 2020 - March. 2021",
-    "roche_d_job": "Stage de génie logiciel",
+    "roche_d_desc": "Praktikant in Systemintegration zur Automatisierung der Datenanalyse.",
+    "roche_d_from": "Aug. 2020 - März 2021",
+    "roche_d_job": "Praktikum im Bereich Software Engineering",
     "roche_d_language": "Dash, Python, Matlab, Apache, Windows Server, R"
   },
   "school":{
-    "my_school": "Education",
+    "my_school": "Schulen",
 
-    "school_a": "Lycée Don Bosco Landser",
-    "school_a_desc": "Obtention du bac scientifique.",
+    "school_a": "Don Bosco Landser Highschool",
+    "school_a_desc": "Erhielt den wissenschaftlichen Hintergrund.",
     "school_a_from": "2010 - 2013",
     "school_a_job": "",
 
-    "school_b": "University de Strasbourg",
-    "school_b_desc": "\nFaculté de mathématiques et d'économie",
+    "school_b": "Universität Straßburg",
+    "school_b_desc": "Fakultät für Mathematik und Wirtschaftswissenschaften",
     "school_b_from": "2013 - 2016",
     "school_b_job": "",
 
-    "school_c": "Epitech, Paris Graduate School of Digital Innovation (France)",
+    "school_c": "Epitech, Pariser Graduiertenschule für digitale Innovation (Frankreich)",
     "school_c_desc": "Epitech Graduate Diploma in Information Technology (Master)",
     "school_c_from": "Sept. 2016 - Sept. 2021",
     "school_c_job": "",
 
     "school_d": "Kent University, Canterbury (England)",
-    "school_d_desc": "Advanced Computer Science (Computational Intelligence) - MSc",
+    "school_d_desc": "Fortgeschrittene Informatik (Computational Intelligence) - MSc - Note: Unterscheidung",
     "school_d_from": "Sept. 2019 - Sept. 2020",
-    "school_d_job": ""
+    "school_d_job": "Note: Auszeichnung"
   },
-  "blog":{
-    "my_blog": "Mon Portfolio"
+  "blog": {
+    "my_blog": "Mein Portfolio"
   },
   "link":{
-    "link": "Liens",
+    "link": "Link",
     "view": "views"
   }
 
