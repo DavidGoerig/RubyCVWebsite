@@ -108,4 +108,22 @@
   icon: fa-plus-square
   present: true
 
+- name:
+    detail: Roche, Rotkreuz
+    i18n: roche_d
+  desc:
+    detail: Intern in System Integration for Automation of Data Analysis.
+    i18n: roche_d_desc
+  date:
+    detail: Aug. 2020 - March. 2021
+    i18n: roche_d_from
+  job:
+    detail: Software engineering internship
+    i18n: roche_d_job
+  language:
+    detail: Dash, Python, Matlab, Apache, Windows Server, R
+    i18n: roche_d__language
+  icon: fa-plus-square
+  present: true
+
 

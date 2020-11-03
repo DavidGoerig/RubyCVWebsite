@@ -20,7 +20,7 @@ author:  # change following line to your infomation.
   linkedin_id: david-goerig-056212139 # Leave blank if you don't have now
   facebook_username: GrgDvd  # Leave blank if you don't have now
   twitter_username: GoerigDavid  # Leave blank if you don't have now
-  email: davidgoerig@epitech.eu  # Leave blank if you don't have now
+  email: david.goerig@epitech.eu  # Leave blank if you don't have now
   cv: # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
@@ -29,7 +29,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Introduce myself will be here.  # Describe yourself.
+  desc: Hello, my name is David Goerig. I am from Village-Neuf in France near the border of Switzerland and Germany. I'm studying software engineering at Epitech France, and I did a double degree at the University of Kent, where I graduated with distinction to the master Advanced Computer Science (Computational Intelligence). I have been programming front-end and back-ends applications for more than eight years now. I am interested in all kinds of software programming, but I am especially interested in deep neural networks, where I try to deepen my knowledge.  # Describe yourself.
 
 # comment
 #disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.

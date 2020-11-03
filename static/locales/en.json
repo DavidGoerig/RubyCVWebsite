@@ -8,12 +8,13 @@
     "skills": "Skills",
     "projects": "Projects",
     "career": "Career",
+    "school": "Education",
     "blog": "Portfolio",
     "link": "Links"
   },
   "about_me":{
     "about_me": "About Me",
-    "des": "Hello, my name is David Goerig. I am from Village-Neuf in France near the border of Switzerland and Germany. I'm studying software engineering at Epitech France, and I am currently doing a double degree at the Uniservity of Kent. I have been programming front-end and back-ends application for more than 5 years now. I am interested in all kinds of software programming, but I am especially interested in machine learning at the moment and try to deepen my knowledge."
+    "des": "Hello, my name is David Goerig. I am from Village-Neuf in France near the border of Switzerland and Germany. I'm studying software engineering at Epitech France, and I did a double degree at the University of Kent, where I graduated with distinction to the master Advanced Computer Science (Computational Intelligence). I have been programming front-end and back-ends applications for more than eight years now. I am interested in all kinds of software programming, but I am especially interested in deep neural networks, where I try to deepen my knowledge."
   },
   "skills":{
     "my_skills": "My Skills"
@@ -21,17 +22,17 @@
   "projects":{
     "my_projects": "My Projects",
     "jekyll": "This project is this website.",
-    "mts": "This project is my master thesis subject. Using deep neural networks to produce novel music. More informations in the blog.",
+    "mts": "This project is my master thesis subject. Using deep neural networks to produce novel music. More information in the blog.",
     "zuul": "Java project using Stream API and JavaFX interface creation. ",
-    "djangocarte": "Creation of interactive map, using return of an AI counting car and people to display the informations on a map.",
-    "raytracer": "Creating a raytracer with the CSFML lib. Include all quadratics, many lights, reflections, etc. Many pictures as exemples. ",
+    "djangocarte": "Creation of interactive map, using return of an AI counting car and people to display the information on a map.",
+    "raytracer": "Creating a raytracer with the CSFML lib. Include all quadratics, many lights, reflections, etc. Many pictures as examples. ",
     "trade": "A small trade algorithm, taker over a year many cash flow (here crypto currencies, raw materials, stock exchange and forex). Principally work with the bollinger band, the aim is the maximization of profits according to the fluctuation of several simultaneous courses and their evolutions.",
     "bomberman": "Copy of Bomberbam in CPP. It allow you to play with split screen, or versus an IA. It use the Irrlicht libraries, and can be run on linux or window. Complete UML and documentation. ",
-    "metro": "Calcul of the steady state in a markov chain using Tower Sampling.",
+    "metro": "Calculation of the steady state in a markov chain using Tower Sampling.",
     "tenser": "TenserFlow people counter, Matplot real time display, web support with flask.",
     "epicture": "Java/Android project created to request Imgur and to create a mobile application.",
-    "teamc": "This project is the Web platform for the team management of the Smart lightening project. Todo list, sprint management,  task assignement, etc.",
-    "asm": "Small ASM / Assembler librarie to show how it work. Compile it with the Makefile. All functions are tested with criterion. "
+    "teamc": "This project is the Web platform for the team management of the Smart lightening project. Todo list, sprint management,  task assignment, etc.",
+    "asm": "Small ASM / Assembler library to show how it work. Compile it with the Makefile. All functions are tested with criterion. "
   },
   "career":{
     "my_career": "My Career",
@@ -70,7 +71,14 @@
     "roche_c_desc": "Machine learning internship in the 'Automatic Lab Solution' department.",
     "roche_c_from": "Apr. 2019 - Sep. 2019",
     "roche_c_job": "Software engineering internship",
-    "roche_c_language": "Django, Python, Matlab, Apache, Windows Server"
+    "roche_c_language": "Django, Python, Matlab, Apache, Windows Server",
+
+
+    "roche_d": "Roche, Rotkreuz",
+    "roche_d_desc": "Intern in System Integration for Automation of Data Analysis.",
+    "roche_d_from": "Aug. 2020 - March. 2021",
+    "roche_d_job": "Software engineering internship",
+    "roche_d_language": "Dash, Python, Matlab, Apache, Windows Server, R"
   },
   "school":{
     "my_school": "Schools",
@@ -91,9 +99,9 @@
     "school_c_job": "",
 
     "school_d": "Kent University, Canterbury (England)",
-    "school_d_desc": "Advanced Computer Science (Computational Intelligence) - MSc",
+    "school_d_desc": "Advanced Computer Science (Computational Intelligence) - MSc - grade: distinction",
     "school_d_from": "Sept. 2019 - Sept. 2020",
-    "school_d_job": ""
+    "school_d_job": "Grade: Distinction"
   },
   "blog":{
     "my_blog": "My Portfolio"

@@ -55,7 +55,7 @@
     detail: Sept. 2019 - Sept. 2020
     i18n: school_d_from
   job:
-    detail: 
+    detail: "Grade: Distinction"
     i18n: school_d_job
   icon: fa-plus-square
   present: true
